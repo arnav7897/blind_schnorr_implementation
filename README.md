@@ -30,7 +30,7 @@ This repository implements the Blind Schnorr Signature scheme, including:
 ## Installation & Setup
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/blind_schnorr_implementation.git
+git clone https://github.com/arnav7897/blind_schnorr_implementation.git
 cd blind_schnorr_implementation
 ```
 
