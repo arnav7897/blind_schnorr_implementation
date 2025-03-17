@@ -21,10 +21,10 @@ This repository implements the Blind Schnorr Signature scheme, including:
 ## Repository Structure
 ```
 ├── schnorr_lib.py    # Core cryptographic functions
-├── signer.py        # Handles the signing process
+├── blinding.py        # Handles the blinding process
 ├── verify.py        # Signature verification
-├── verify1.py       # Alternate verification method
-├── creator.py       # Key generation & blinding
+├── signature.py       # signature creation
+├── key_gen.py       # Key generation 
 ```
 
 ## Installation & Setup
