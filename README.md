@@ -75,5 +75,5 @@ Contributions are welcome! Feel free to submit issues or pull requests.
 This project is licensed under the MIT License.
 
 ---
-**Author:** Arnav Sharda
+**Author:** Arnav Sharda , Rineet Pandey , Aniket Gupta
 
